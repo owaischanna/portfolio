@@ -49,7 +49,7 @@ const Footer = () => {
           <p>
             Whatsapp:{" "}
             <a href="tel:+923249754112" className="contact-link">
-              +923249754112
+              +923323628980
             </a>
           </p>
         </div>
